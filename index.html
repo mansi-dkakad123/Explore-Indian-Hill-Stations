@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Hill Stations India</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar">
+    <div class="logo">
+      <img src="https://cdn-icons-png.flaticon.com/512/685/685686.png" alt="Hill Icon" class="icon">
+      <span>Hill Stations India</span>
+    </div>
+    <div class="nav-links">
+      <a href="#distance">Distance</a>
+      <a href="#contact">Contact</a>
+    </div>
+  </nav>
+
+  <!-- Landing Section -->
+  <section class="landing">
+    <div class="content">
+      <h1><span>EXPLORE</span><br>THE HILLS</h1>
+      <p>Search and discover India’s most beautiful hill stations with photos, videos, and useful travel info.</p>
+
+      <!-- 🔧 Search input and buttons aligned in a row -->
+      <div class="search-buttons">
+        <input type="text" id="searchBar" placeholder="Search hill station..." />
+        <a href="#" class="button">KNOW MORE</a>
+        <a href="quiz.html" class="button">TAKE QUIZ</a>
+      </div>
+
+      <ul id="suggestions"></ul>
+    </div>
+
+    <div class="image-box">
+      <img src="https://img.freepik.com/free-photo/hiker-sitting-top-mountain-looking-view_1150-7413.jpg" alt="Hill Explorer">
+    </div>
+  </section>
+
+  <!-- 🔎 Search Result Section -->
+  <section id="result" class="hidden">
+    <h2 id="hillName"></h2>
+
+    <!-- 🖼️ Multiple images -->
+    <div id="hillImages" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;"></div>
+
+    <!-- 🎥 Video -->
+    <video id="hillVideo" width="560" controls style="margin-top: 20px;">
+      <source id="videoSource" src="" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+
+    <!-- 📄 Description -->
+    <p id="hillDesc" style="margin-top: 20px; font-size: 18px;"></p>
+  </section>
+
+  
+
+
+
+  <script src="script.js"></script>
+</body>
+</html>

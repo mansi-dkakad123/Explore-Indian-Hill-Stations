@@ -1,0 +1,57 @@
+:root {
+  --primary: #00796b;
+  --accent: #009688;
+  --bg-light: #e0f2f1;
+  --btn-hover: #004d40;
+}
+
+body {
+  background-color: var(--bg-light);
+  color: #263238;
+}
+
+/* Navbar */
+.navbar {
+  background-color: var(--primary);
+}
+
+.logo span {
+  background-color: #ffffff;
+  color: var(--primary);
+}
+
+/* Button */
+.button {
+  background-color: var(--accent);
+}
+
+.button:hover {
+  background-color: var(--btn-hover);
+}
+
+/* Search Bar */
+#searchBar {
+  border: 2px solid var(--accent);
+}
+
+#suggestions li:hover {
+  background-color: #b2dfdb;
+}
+
+/* Result Section, Landing Section Text */
+#result,
+.quiz-container {
+  background: #ffffff;
+}
+
+#nextBtn {
+  background-color: var(--accent);
+}
+
+#nextBtn:hover {
+  background-color: var(--btn-hover);
+}
+
+#options li:hover {
+  background-color: #b2dfdb;
+}
