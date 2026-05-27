@@ -7,9 +7,13 @@ and an interactive quiz. Built with vanilla HTML, CSS, and JavaScript, no framew
 Features
 
 Live Search with Suggestions — Real-time autocomplete as users type a hill station name
+
 Dynamic Media Display — Fetches and renders multiple photos and a video per destination
+
 Interactive Quiz — Multi-question quiz with score tracking and next-question flow
+
 Responsive UI — Adapts across desktop, tablet, and mobile screen sizes
+
 No Dependencies — Zero npm packages, zero build steps — runs directly in the browser
 
 
@@ -37,6 +41,7 @@ Explore-Indian-Hill-Stations/
 
 └── quiz.js           # Quiz logic — questions, options, scoring
 
+
 Deployment
 Since this is a static project, it can be deployed to any free hosting platform.
 
@@ -44,7 +49,9 @@ Since this is a static project, it can be deployed to any free hosting platform.
 GitHub Pages
 
 Go to your repository → Settings → Pages
+
 Under Source, select main branch and / (root)
+
 Click Save
 
 https://mansi-dkakad123.github.io/Explore-Indian-Hill-Stations/
@@ -53,16 +60,23 @@ https://mansi-dkakad123.github.io/Explore-Indian-Hill-Stations/
 Future Improvements
 
 Add a favorites/bookmark feature using localStorage
+
 Integrate a weather API to display current conditions per hill station
+
 Add filter options by state, altitude, or best season to visit
+
 Improve quiz with difficulty levels and a leaderboard
+
 Animate search results and page transitions with CSS
+
 Add a contact form with basic client-side validation
 
 
 IMPORTANT:
 - Only use technologies I provided
+- 
 - Do not add TypeScript, Next.js, Tailwind, Firebase, Docker, etc.
+- 
 - Keep the design modern and recruiter-friendly
 
 
