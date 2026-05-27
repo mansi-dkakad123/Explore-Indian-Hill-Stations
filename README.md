@@ -89,7 +89,7 @@ Add a contact form with basic client-side validation
 
 
 
-## IMPORTANT:
+## IMPORTANT
 - Only use technologies I provided
 - Do not add TypeScript, Next.js, Tailwind, Firebase, Docker, etc.
 - Keep the design modern and recruiter-friendly
