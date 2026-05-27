@@ -1,4 +1,5 @@
 Explore Indian Hill Stations
+
 A frontend web application to search and discover India's most beautiful hill stations — complete with photos, video previews, travel descriptions, 
 and an interactive quiz. Built with vanilla HTML, CSS, and JavaScript, no frameworks required.
 
