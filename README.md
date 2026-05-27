@@ -98,7 +98,7 @@ Add a contact form with basic client-side validation
 
 
 ## Author : 
-Mansi Kakad
+Mansi Dhakad
 
 
 
