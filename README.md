@@ -24,11 +24,17 @@ cd Explore-Indian-Hill-Stations
 open index.html
 
 Explore-Indian-Hill-Stations/
+
 ├── index.html        # Main explorer page — search, photos, video, description
+
 ├── style.css         # Global styles shared across both pages
+
 ├── script.js         # Search logic, API calls, and dynamic DOM rendering
+
 ├── quiz.html         # Hill station quiz page
+
 ├── quiz.css          # Quiz-specific styles
+
 └── quiz.js           # Quiz logic — questions, options, scoring
 
 Deployment
