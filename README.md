@@ -1,4 +1,4 @@
-Explore Indian Hill Stations
+## **Explore Indian Hill Stations**
 
 A frontend web application to search and discover India's most beautiful hill stations — complete with photos, video previews, travel descriptions, 
 and an interactive quiz. Built with vanilla HTML, CSS, and JavaScript, no frameworks required.
@@ -6,7 +6,8 @@ and an interactive quiz. Built with vanilla HTML, CSS, and JavaScript, no framew
 
 
 
-Features
+
+## Features
 
 Live Search with Suggestions — Real-time autocomplete as users type a hill station name
 
@@ -21,7 +22,7 @@ No Dependencies — Zero npm packages, zero build steps — runs directly in the
 
 
 
-Getting Started
+## Getting Started
 No installation or build process required. This is a pure frontend project.
 
 
@@ -35,9 +36,9 @@ cd Explore-Indian-Hill-Stations
 
 open index.html
 
-Explore-Indian-Hill-Stations/
+## Explore-Indian-Hill-Stations/
 
-├── index.html        # Main explorer page — search, photos, video, description
+├── index.html # Main explorer page — search, photos, video, description
 
 ├── style.css         # Global styles shared across both pages
 
@@ -52,13 +53,13 @@ Explore-Indian-Hill-Stations/
 
 
 
-Deployment
+## Deployment
 Since this is a static project, it can be deployed to any free hosting platform.
 
 
 
 
-GitHub Pages
+## GitHub Pages
 
 Go to your repository → Settings → Pages
 
@@ -71,7 +72,7 @@ https://mansi-dkakad123.github.io/Explore-Indian-Hill-Stations/
 
 
 
-Future Improvements
+## **Future Improvements**
 
 Add a favorites/bookmark feature using localStorage
 
@@ -88,7 +89,7 @@ Add a contact form with basic client-side validation
 
 
 
-IMPORTANT:
+## IMPORTANT:
 - Only use technologies I provided
 - Do not add TypeScript, Next.js, Tailwind, Firebase, Docker, etc.
 - Keep the design modern and recruiter-friendly
@@ -96,7 +97,8 @@ IMPORTANT:
   
 
 
-Author : Mansi Kakad
+## Author : 
+Mansi Kakad
 
 
 
